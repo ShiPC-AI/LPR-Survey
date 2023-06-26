@@ -1,4 +1,4 @@
-# LPR-Survey
+# LPR-Survey is updating
 A survey of LiDAR-based place recognition 
 
 # Global Descriptors
@@ -16,7 +16,7 @@ A survey of LiDAR-based place recognition
  8. Place recognition of large-scale unstructured orchards with attention score maps, **RAL 2023**.
  9. Art-slam: Accurate real-time 6dof lidar slam, **RAL 2022**.
  10. Optimized sc-f-loam: Optimized fast lidar odometry and mapping using scan context, CVCI 2022.
- 11. Eil-slam: Depthenhanced edge-based infrared-lidar slam, **JFR 2022**.
+ 11. Eil-slam: Depth-enhanced edge-based infrared-lidar slam, **JFR 2022**.
  
  #### Pairwise Matching
 1. Lidar iris for loop-closure detection, **IROS 2020**.
