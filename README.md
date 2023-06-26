@@ -1,4 +1,4 @@
-# LPR-Survey is updating
+# LPR-Survey is updating...
 A survey of LiDAR-based place recognition 
 
 # Global Descriptors
