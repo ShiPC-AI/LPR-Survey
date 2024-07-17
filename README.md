@@ -1,8 +1,8 @@
 # LiDAR-based Place Recognition For Autonomous Driving: A Survey
 <!-- badges -->
 [website_cite_100]: https://img.shields.io/badge/Citations-%3E100-FFA500
-[website_cite_200]: https://img.shields.io/badge/citation-%3E200-purple
-[website_cite_300]: https://img.shields.io/badge/citation-%3E300-red
+[website_cite_200]: https://img.shields.io/badge/Citations-%3E200-purple
+[website_cite_300]: https://img.shields.io/badge/Citations-%3E300-red
 [website_handcrafted]: https://img.shields.io/badge/Handcrafted-blue
 [website_learning]: https://img.shields.io/badge/Learning-green
 [website_paper]: https://img.shields.io/badge/Paper-gray
