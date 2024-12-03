@@ -9,6 +9,10 @@
 [website_git]: https://badges.aleen42.com/src/github.svg
 
 This repository provides a comprehensive review of LiDAR-based place recognition (LPR) methods. Each method includes the paper's name, code repository (if available), and a link to the paper.
+
+##  News
+- **2024.11:** Our paper has been accepted for <strong>ACM Computing Surveys</strong>.
+
 ##  Citation
 If you think this work is useful for your research, please consider citing our paper:
 ```
