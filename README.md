@@ -378,8 +378,6 @@ ization | ``ECCV``
 - Automatic appearance-based loop detection from three-dimensional laser data using the normal distributions transform | ``JFR``
 ![Learning Badge][website_learning] [![Paper Badge][website_paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.20314?casa_token=tjEGO79e9qcAAAAA%3A4VDiumzBjISTgAEs-YM82WObwERAaQVjbdh5MPlYAITnUdR_1Bgy3Oni3OfNJyzRzZsqU9LHW5zmkYJy) 
 
-
-
-
-# Contact
-For any questions or errors, please contact me at shipc_cs@outlook.com.
+#### Contact
+For any inquiries, feel free to contact me:
+- **Pengcheng Shi** {[shipc_2021@whu.edu.cn]()}
