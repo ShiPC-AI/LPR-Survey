@@ -16,7 +16,7 @@ LiDAR has gained popularity in autonomous driving due to advantages like long me
 - **2025.02:** We upload the figures and pdf
 
 ### Citation
-If you think this work is useful for your research, please cite our paper:
+If this work is useful for your research, please cite our paper:
 ```
 @article{zhang2024lidar,
   title={Lidar-based place recognition for autonomous driving: A survey},
