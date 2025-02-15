@@ -29,8 +29,8 @@ If you think this work is useful for your research, please cite our paper:
 }
 ```
 ### Two Key Problems Addressed by PR
-- **Question 1**: It addresses the problem of "**<span style="color:red">where have I ever been</span>**, " also known as **Loop Closure Detection (LCD)**. In this context, **PR** and localization are interdependent, with PR enhancing localization accuracy through loop closure detection 
-- **Question 2**: It tackles the issue of "**<span style="color:red">where am I</span>**," also known as global localization. In this context, **PR** is a specialized localization method that directly provides the vehicle’s global pose.
+- **Question 1**: It addresses the problem of "**<font color="red">where have I ever been</font>**, " also known as **Loop Closure Detection (LCD)**. In this context, **PR** and localization are interdependent, with PR enhancing localization accuracy through loop closure detection 
+- **Question 2**: It tackles the issue of "**<font color="red">where am I</font>**," also known as global localization. In this context, **PR** is a specialized localization method that directly provides the vehicle’s global pose.
 ![Taxonomy of LPR methods](media/pr-problem.jpg)
 
 ### Taxonomy of Methods
