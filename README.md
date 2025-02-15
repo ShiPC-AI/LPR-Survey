@@ -9,6 +9,7 @@ Yongjun Zhang (张永军), [Pengcheng Shi* (史鹏程)](https://shipc-ai.github.
 
 LiDAR has gained popularity in autonomous driving due to advantages like long measurement distance, rich three-dimensional information, and stability in harsh environments. **Place Recognition (PR)** enables vehicles to identify previously visited locations despite variations in appearance, weather, and viewpoints, even determining their global location within prior maps. This capability is crucial for accurate localization in autonomous driving. Consequently, **LiDAR-based Place Recognition (LPR)** has emerged as a research hotspot in robotics. However, existing reviews predominantly concentrate on Visual Place Recognition, leaving a gap in systematic reviews on **LPR**. This article bridges this gap by providing a comprehensive review of **LPR** methods, thus facilitating and encouraging further research. We commence by exploring the relationship between PR and autonomous driving components. Then, we delve into the problem formulation of **LPR**, challenges, and relations to previous surveys. Subsequently, we conduct an in-depth review of related research, which offers detailed classifications, strengths and weaknesses, and architectures. Finally, we summarize existing datasets and evaluation metrics and envision promising future directions. This article can serve as a valuable tutorial for newcomers entering the field of place recognition.
 
+---
 ### News
 - **2024.11:** Our has been accepted for ***ACM Computing Surveys***
 - **2024.12:** The published paper is available: [Published Paper](https://dl.acm.org/doi/10.1145/3707446)
@@ -28,15 +29,18 @@ If you think this work is useful for your research, please cite our paper:
   publisher={ACM New York, NY}
 }
 ```
+
 ### Two Key Problems Addressed by PR
 - **Question 1**: It addresses the problem of "**<font color="red">where have I ever been</font>**, " also known as **Loop Closure Detection (LCD)**. In this context, **PR** and localization are interdependent, with PR enhancing localization accuracy through loop closure detection 
 - **Question 2**: It tackles the issue of "**<font color="red">where am I</font>**," also known as global localization. In this context, **PR** is a specialized localization method that directly provides the vehicle’s global pose.
 ![Taxonomy of LPR methods](media/pr-problem.jpg)
 
+---
 ### Taxonomy of Methods
 We categorize methods into handcrafted and learning-based types, further subdividing them, and present detailed introductions to pioneering works. 
 ![Taxonomy of LPR methods](media/overview.jpg)
 
+---
 ### Methods Organized by Year
 [website_handcrafted]: https://img.shields.io/badge/Handcrafted-blue
 [website_learning]: https://img.shields.io/badge/Learning-green
